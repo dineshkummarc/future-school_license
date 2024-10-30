@@ -36,9 +36,6 @@ click on done!
 Automatically the software upload the install.sql to the database
 .......................................................................................
 
-
-
-
 LOCAL SERVER INSTALLATION
 .........................
 
@@ -77,8 +74,6 @@ click on finish
 click on done!
 
 Automatically the software upload the install.sql to the database
-
-
 
 LOGIN DETAILS
 ..................................................
